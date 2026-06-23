@@ -17,8 +17,8 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_RG: RG3
-  AZURE_SUBSCRIPTION: <<Subscription ID>>
+  AZURE_RG: RG1
+  AZURE_SUBSCRIPTION: c6bc3979-b7f6-4d26-8372-5a3db8259a88
   AZURE_LOCATION: WestEurope
 
 jobs:
